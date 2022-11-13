@@ -1,0 +1,6 @@
+class SVGElement {
+    constructor (type) {
+    
+    }
+ 
+}
